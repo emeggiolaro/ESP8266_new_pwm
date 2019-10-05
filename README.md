@@ -1,4 +1,7 @@
 # ESP8266_new_pwm
+
+https://lurchi.wordpress.com/2016/06/29/esp8266-pwm-revisited-and-reimplemented/
+
 This is a drop-in replacement for the ESP8266 SDK PWM
 
 If you like this project and want to support this and my other works, consider donating on [Liberapay][liberapay]

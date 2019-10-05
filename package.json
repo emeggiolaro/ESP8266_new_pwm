@@ -1,0 +1,6 @@
+{
+	"name": "pwm",
+	"description": "ESP8266 Software PWM",
+	"url": "https://github.com/emeggiolaro/ESP8266_new_pwm",
+	"version": "1.0.0"
+}
